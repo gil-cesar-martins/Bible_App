@@ -4,7 +4,7 @@ import streamlit.components.v1 as stc
 
 # EDA Packages
 import pandas as pd
-import neattext.functions as nfx
+import neattext.functions as nfx 
 
 # Data Viz Packages
 import matplotlib.pyplot as plt
